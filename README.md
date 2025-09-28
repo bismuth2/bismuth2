@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bismuth2
 - 👀 I’m interested in E2, Lua, C, C++, Video Game development.
 - 🌱 I’m currently learning C, C++.
-- 📫 How to reach me by email at asterdev@yahoo.com
   
 <!---
 bismuth2/bismuth2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
