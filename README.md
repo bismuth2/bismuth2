@@ -1,6 +1,4 @@
 - Welcome
-My public game addons [Steam workshop]([https://pages.github.com/](https://steamcommunity.com/sharedfiles/filedetails/?id=1533462174)).
-
 My public game addons are over at my steam profile: https://steamcommunity.com/sharedfiles/filedetails/?id=1533462174
 I can be reached at: asterdev@yahoo.com
 
